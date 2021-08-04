@@ -1,13 +1,13 @@
-#meme-generator-api
+# meme-generator-api
 
 The meme-generator-api is a simple api for creating memes. You can use it via GUI or just by makeing a get-request
 
 
-##Usage - GUI
+## Usage - GUI
 
 The GUI is pretty much self explaining and intuitiv. The website is currently running on [meme-gen.github.io](https://meme-gen.github.io).
 
-##Usage - API
+## Usage - API
 
 To call the API you need 4 Parameters:
 - Textsize (integer value between 50 and 100)
